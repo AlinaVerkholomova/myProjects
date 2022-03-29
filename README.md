@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlinaVerkholomova
-- 👀 I’m interested in programming in Java, Python, C/C++
+- 👀 I’m interested in programming in Java, Python, C/C++, C#
 - 📫 How to reach me https://www.linkedin.com/in/alina-verkholomova-060b3a22a/
 
 <!---
